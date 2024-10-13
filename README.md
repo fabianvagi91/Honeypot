@@ -49,7 +49,9 @@ When i open the file i see the alerts made during the testing.
 # Conclusion
 
 During the research i read a lot about different types of Honeypots and their capabilities.
+
 Learned much more about well-known ports, reinforced my knowlage about firewalls rules and network protocols.
+
 Practiced how to read logs and to extract usefull information form the logs
 
 
