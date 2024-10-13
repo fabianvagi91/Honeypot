@@ -46,7 +46,7 @@ After using the nmap tool we generate logs into our honeypot.
 Inside the directory of pentbox we can see the logs of the honeypot that i made in port 22.
 When i open the file i see the alerts made during the testing.
 
-#conclution
+# Conclusion
 
 During the research i read a lot about different types of Honeypots and their capabilities.
 Learned much more about well-known ports, reinforced my knowlage about firewalls rules and network protocols.
