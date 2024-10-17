@@ -52,10 +52,10 @@ Pentbox only works when the terminal is runnning
 
 # Conclusion
 
-During the research i read a lot about different types of Honeypots and their capabilities.
+During the research, I read extensively about different types of honeypots and their capabilities.
 
-Learned much more about well-known ports, reinforced my knowlage about firewalls rules and network protocols.
+I learned much more about well-known ports and reinforced my knowledge of firewall rules and network protocols.
 
-Practiced how to read logs and to extract usefull information form the logs
+I practiced reading logs and extracting useful information from them.
 
 
